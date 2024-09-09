@@ -25,7 +25,8 @@ Note: Both pictures are taken by me at Legion Park. I identified the Mountain Ma
 ![dermal ridges](https://github.com/user-attachments/assets/b66e9859-0909-40d2-9cdf-569469dc8372)
 I consider the dermal ridges that form the palm print, and the wrist lines, as computatioal designs because they are patterns that are not entirely random and are interesting to recreate computationally. The study and creation of such patterns would be helpful in robotic "skin" design to better simulate human gripping and wrist movement, as these wrist lines, decpite looking random, occur at the bending spots of the wrist and allow the skin to better fold with the wrist. They are also interesting because they are composed of little crossing diagonal wrinkels. The picture is of my wrist, taken by me. 
 ### 3. Environment-Built Example: Bowerbird bowers
-![Bowerbird Bower](https://en.wikipedia.org/wiki/Bowerbird#/media/File:Bower_of_the_Satin_Bowerbird.jpg)
+![Bowerbird Bower](https://github.com/user-attachments/assets/94d2808d-aad2-4e74-8763-42575e13990c)
+
 Bowerbirds make cool standing nests , named bowers. These bowers are interesting due to the skill required to stack sticks to from two curved walls that meet at the top. Computationaly simulating this archetictural pattern would be cool to 3d print. 
 
 Image from the Bowerbird wikipedia page: https://en.wikipedia.org/wiki/Bowerbird#/media/File:Bower_of_the_Satin_Bowerbird.jpg
@@ -33,7 +34,8 @@ Image from the Bowerbird wikipedia page: https://en.wikipedia.org/wiki/Bowerbird
 
 ## Task 2: Man-made Computational Designs
 ### 1. KAPSARC
-![KAPSARC] (https://www.zaha-hadid.com/wp-content/uploads/2019/12/004_zha_kapsarc_musalla_huftoncrow_lowres91.jpg)
+![KAPSARC](https://github.com/user-attachments/assets/40e4dd1b-15f8-4b89-8ea8-df6ed4d151f4)
+
 King Abdullah Petroleum Studies and Research Center (KAPSARC) is reseach center in Riyadh, Saudi Arabia, designed by the Archetict Zaha Hadid. As described in her archtict-frim website, from which the photo is obtained, the building design represents cellular honeycomb structures that are not only visually artestic but also serve environmental purposes like "softening the light and heat of the Riyadh Platue" ( Note: Riyadh is a very sunny/hot city , very near the Empty Quarter Desert in Saudi Arabia)
 More about Kapsarc  + Img source: https://www.zaha-hadid.com/architecture/king-abdullah-petroleum-studies-and-research-centre/
 
