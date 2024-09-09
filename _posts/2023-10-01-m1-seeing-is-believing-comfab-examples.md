@@ -1,6 +1,6 @@
 ---
 title: "M1: 'Seeing is believing' - ComFab Examples"
-date: 2023-10-01
+date: 2024-9-8
 ---
 
 # M1: 'Seeing is believing' - ComFab Examples
