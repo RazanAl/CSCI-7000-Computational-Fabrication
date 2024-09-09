@@ -33,7 +33,7 @@ Image from the Bowerbird wikipedia page: https://en.wikipedia.org/wiki/Bowerbird
 
 ## Task 2: Man-made Computational Designs
 ### 1. KAPSARC
-![KAPSARC} (https://www.zaha-hadid.com/wp-content/uploads/2019/12/004_zha_kapsarc_musalla_huftoncrow_lowres91.jpg)
+![KAPSARC] (https://www.zaha-hadid.com/wp-content/uploads/2019/12/004_zha_kapsarc_musalla_huftoncrow_lowres91.jpg)
 King Abdullah Petroleum Studies and Research Center (KAPSARC) is reseach center in Riyadh, Saudi Arabia, designed by the Archetict Zaha Hadid. As described in her archtict-frim website, from which the photo is obtained, the building design represents cellular honeycomb structures that are not only visually artestic but also serve environmental purposes like "softening the light and heat of the Riyadh Platue" ( Note: Riyadh is a very sunny/hot city , very near the Empty Quarter Desert in Saudi Arabia)
 More about Kapsarc  + Img source: https://www.zaha-hadid.com/architecture/king-abdullah-petroleum-studies-and-research-centre/
 
