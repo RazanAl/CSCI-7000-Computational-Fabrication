@@ -14,13 +14,13 @@ This assignment contains three tasks: Finding a computational design form nature
 ### 1. Botanical Example: 
 #### a. Mountain Mahogany
 ![Mountain Mahogany](https://github.com/user-attachments/assets/a8de4827-22a2-44e3-bf62-9233b490f308)
-These plants have spiral feather-like seed tails. Unlike feathers, however, the fuzz comming out the tail seems always perpendicular to the tangent to the tail curve. The picture is taken by me at Legion Park. 
+These plants have spiral feather-like seed tails. Unlike feathers, however, the fuzz comming out the tail seems always perpendicular to the tangent to the tail curve.
 #### b. Yucca campestris. 
 ![Yucca campestris](https://github.com/user-attachments/assets/d06cebbe-5b3b-4bb5-9789-c0cccc0086a0)
 
 This is the flowering part from the Yucca campestris plant. I Liked the horizontal structure of the woody pod-like petals, which lools like wooden "wires" covered with a thin layer of woody fronds. 
 
-Note: Both pictures are taken by me at Legion Park. I identified the Mountain Mahogany using goole reverse image search, and the Yucca campestris using Plant.id 
+Note: Both pictures are taken by me at Legion Park. I identified the Mountain Mahogany using google reverse image search, and the Yucca campestris using Plant.id 
 ### 2. Zoological Example: Dermal ridges and Wrist lines
 ![dermal ridges](https://github.com/user-attachments/assets/b66e9859-0909-40d2-9cdf-569469dc8372)
 I consider the dermal ridges that form the palm print, and the wrist lines, as computatioal designs because they are patterns that are not entirely random and are interesting to recreate computationally. The study and creation of such patterns would be helpful in robotic "skin" design to better simulate human gripping and wrist movement, as these wrist lines, decpite looking random, occur at the bending spots of the wrist and allow the skin to better fold with the wrist. They are also interesting because they are composed of little crossing diagonal wrinkels. The picture is of my wrist, taken by me. 
@@ -44,7 +44,9 @@ The image, along with more information on KAPSARC and Zaha's work can be found o
 ![generico_chair_1](https://github.com/user-attachments/assets/31471a58-fd73-48ca-a8f0-eab783feab51)
 The making of this chair makes it use less material, thus the chair is lighter, while still supporting a human weight. 
 Image and info from [](https://www.yankodesign.com/2019/01/29/parametrically-designed-generico-chair-takes-on-your-weight-with-half-the-volume/)
-### 3. [Add example 3]
+### 3. 4D printed self-adjusting splint
+![4Dprinted splint](https://github.com/user-attachments/assets/84d8a9da-6558-4222-8cb1-45bef89f8622)
+This is a 4D printed splint explained in the paper: [Bio-Inspired Motion Mechanisms: Computational Design and Material Programming of Self-Adjusting 4D-Printed Wearable Systems](https://pubmed.ncbi.nlm.nih.gov/34258167/)
 
 ## Task 3: Researchers, Designers, and/or Artists
 
