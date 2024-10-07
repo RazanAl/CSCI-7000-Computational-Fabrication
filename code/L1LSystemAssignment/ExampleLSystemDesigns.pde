@@ -213,7 +213,7 @@ LSystem ReemSystem() {
   return new LSystem(axiom, rules, moveDist, rotateAngle, scaleFactor);
 }
 
-LSystem initReema() {
+LSystem initPexagon() {
   // initialize turtle variables
   float moveDist = 20;
   float rotateAngle = 72;
