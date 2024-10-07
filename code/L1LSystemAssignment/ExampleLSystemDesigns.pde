@@ -194,20 +194,20 @@ LSystem hexSystem() {
 }
 
 
-LSystem ReemSystem() {
+LSystem squareSystem() {
   // initialize turtle variables
-  float moveDist = 50;
-  float rotateAngle = 1;
+  float moveDist = 30;
+  float rotateAngle = 90;
   float scaleFactor = 1;
   
   // The intial axiom / input string
-  String axiom = "F";
+  String axiom = "F-F-F-F+";
   
   // Create any production rules
   HashMap<Character, String> rules = new HashMap<>();
-  //rules.put('F', "FF+FF");
-  //rules.put('F', "P+F");
-  rules.put('F', "PFFPFFP+FPFP");
+  rules.put('F', "FF--F-FF");
+  rules.put('+', "-FF-");
+  //rules.put('F', "PFFPFFP+FPFP");
   //rules.put('F', "P+F");
   // Create and return the Lsystem
   return new LSystem(axiom, rules, moveDist, rotateAngle, scaleFactor);
