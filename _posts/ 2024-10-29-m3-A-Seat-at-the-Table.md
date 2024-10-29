@@ -16,7 +16,7 @@ All files, including code and exprted STLs can be found here  [here](https://git
 For this task I made a Locket-inspired table that opens up to some storage. I initially follwoed [this youtube tutorial](https://www.youtube.com/watch?v=Q3G8ZxsRElI)  to create the table body, which I refer to as "the locket". I initially planned to follow the tutorial with the following differences: 
 ## 1. Paramatrize the design by using grasshopper - this took way more time than the video. 
 Below you can see the GH diagrams for crating the locket frame and the hinge ( sperately). The locket dimentions and thickness, and the hinge diamater and placement relative to the locket ellipsoid are adjustable.
-<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_Locket.png" height="300"> 
+<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_Frame.png" height="300"> 
 <img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_Hinge.png" height="300"> 
 ## 2. Adjust the hinge to allow full 180 opening. 
 Before the locket parts are unioned with the corresponding locket parts, the locket top is rotated 180 degrees to note and eliminate the locket side's overlap prevents the lockt from fully opening. Below is the GH flow that increases the locket rotation span then connects it to the hing parts: 
@@ -36,9 +36,9 @@ I initially planned to use wire for pinning the hinge, but then decided to make 
 This is the simplist pin, so it is not secure, a better version could have some form of stoppers at the end, but this somple pin should do the job for now. 
 
 Here are some sample results for this table design: 
-<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M2_table1.png" height="300"> 
-<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M2_table2.png" height="300"> 
-<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M2_table3.png" height="300"> 
+<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_table1.png" height="300"> 
+<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_table2.png" height="300"> 
+<img src="https://raw.githubusercontent.com/RazanAl/CSCI-7000-Computational-Fabrication/refs/heads/main/imgs/M3_table3.png" height="300"> 
 Note: The fabricated variations are not neccarily from the ones shown above. 
 
 # 2. Task 2: Fabricate Your Designs With 3D Printing
